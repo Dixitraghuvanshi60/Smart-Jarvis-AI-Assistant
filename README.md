@@ -27,6 +27,20 @@ It can *listen, speak, open or close apps, browse websites, respond with AI (via
 
 ---
 
+### Download Vosk Model (Required)
+Download the English Vosk model from the official link:
+
+https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
+
+Extract the folder inside your project directory:
+
+JARVIS/
+ ├── jarvis.py
+ ├── api.env
+ ├── vosk-model-small-en-us-0.15/   ← Put model here
+
+ ---
+
 ## ⚙ Installation
 
 1. *Clone this repository:*
