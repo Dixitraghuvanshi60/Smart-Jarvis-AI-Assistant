@@ -1,0 +1,7 @@
+vosk
+speechrecognition
+pyttsx3
+pvporcupine
+sounddevice
+openai
+pyaudio
